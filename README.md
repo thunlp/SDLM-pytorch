@@ -11,4 +11,4 @@ Any inquiry about bugs, feature request or questions about the paper are welcome
 * Yihong Gu: gyh15@mails.tsinghua.edu.cn
 * Jun Yan: j-yan15@mails.tsinghua.edu.cn
 
-We will repsonse as soon as we can.
+We will repsond as soon as we can.
